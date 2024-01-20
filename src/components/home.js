@@ -5,7 +5,7 @@ function Home(){
         <div className="main-container">
             <div className="topic">
                 <h1>SLSACHIBOY</h1>
-                <img src="" alt="profile picture"/>
+                <img src="./res/slsachiboy-pp.jpg" alt="slsachiboy pp"/>
             </div>
         </div>
     )
