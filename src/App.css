@@ -1,11 +1,4 @@
 html,body{
-  background-color: rgb(36, 36, 36);
+  background-color: rgba(0, 0, 0, 0.921);
   color: aliceblue;
-}
-
-.main-container{
-  flex-direction: column;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }

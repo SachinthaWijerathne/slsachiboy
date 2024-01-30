@@ -1,11 +1,19 @@
 import './App.css';
-import Home from './components/home';
+import Content from './Components/Content';
+import Footer from './Components/Footer';
+import Header from './Components/Header';
+import LeftSidePanel from './Components/LeftSidePanel';
+import RightSidePanel from './Components/RightSidePanel';
 
 function App() {
   return (
-    <>
-    <Home/>
-    </>
+    <div>
+      <Header/>
+      <LeftSidePanel/>
+      <Content/>
+      <RightSidePanel/>
+      <Footer/>
+    </div>
   );
 }
 
