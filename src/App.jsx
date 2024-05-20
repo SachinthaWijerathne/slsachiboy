@@ -1,9 +1,11 @@
 import './App.css';
+import Maintainance from './Comps/maintainance/Maintainance';
 
 function App() {
   return (
-    <div>
-    </div>
+    <>
+    <Maintainance/>
+    </>
   );
 }
 
